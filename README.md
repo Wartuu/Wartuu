@@ -18,13 +18,13 @@
   <code> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
 
   Learning:
-  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB"></src>
-  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></src>
-  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF"></src>
+  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB"></code>
+  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></code>
+  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF"></code>
 
   Favorite IDE's:
   <code> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
-  <code> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
+  <code> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> </code>
   <code> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF"></code>
 
   Using OS:
