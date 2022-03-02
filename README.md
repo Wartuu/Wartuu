@@ -8,7 +8,7 @@
 <br>
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wartuu&show_icons=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wartuu&layout=compact&theme=github_dark)"
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
