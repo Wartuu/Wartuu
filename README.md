@@ -19,7 +19,6 @@
 
   <bold> Learning</bold>
   <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="></code>
-  <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></code>
   <code><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label="></code>
 
   <bold> Favorite IDE's: </bold>
