@@ -30,14 +30,5 @@
 
   <bold> Using OS </bold>
   <code> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
-
-  <br>
-  <br>
-  <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wartuu&show_icons=true&theme=radical">
-  </p>
-  <p float="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wartuu&theme=radical&layout=compact"
-  </p>
 </p>
 
